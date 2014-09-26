@@ -5,7 +5,7 @@
 [![Browser support](https://ci.testling.com/Gozala/interset.png)](http://ci.testling.com/Gozala/interset)
 
 Binary operations for logical sets in our case arrays, although in a future
-support for upcoming sets maybe added.
+support for upcoming sets may be added.
 
 ## API
 
